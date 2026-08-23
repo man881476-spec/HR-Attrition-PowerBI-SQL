@@ -40,8 +40,17 @@ A few things did NOT hold up the way I expected: job satisfaction scores don't c
 Power BI Desktop for the dashboard, DAX for the custom measures (attrition rate, active headcount, salary-at-risk), and SQLite (DB Browser) for a separate set of SQL queries against the same dataset - basic aggregations plus window functions, a correlated subquery, and a CTE. Those are in `SQL_Queries.md` with screenshots showing them run against the actual data.
 
 ## Files here
-
-- `HR_Attrition_Dashboard.pbix` - the Power BI file
-- `HR-Employee-Attrition.csv` - source dataset
-- `SQL_Queries.md` - SQL queries with proof-of-execution screenshots
-- HR_Attrition_Dashboard.pdf screenshot of dashboard
+├── README.md
+├── HR_Attrition_Dashboard.pbix
+├── HR-Employee-Attrition.csv
+├── HR-Employee-Attrition.xlsx
+├── HR-Employee-Attrition.pdf
+├── SQL_Queries.md
+├── SQL_Queries_Proof.pdf
+│
+└── screenshots/
+    ├── 01_Overview.png
+    ├── 02_Attrition_Analysis.png
+    ├── 03_Risk_Analysis.png
+    ├── 04_Salary_Performance.png
+    └── 05_Executive_Insight.png
