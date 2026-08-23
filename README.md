@@ -44,4 +44,4 @@ Power BI Desktop for the dashboard, DAX for the custom measures (attrition rate,
 - `HR_Attrition_Dashboard.pbix` - the Power BI file
 - `HR-Employee-Attrition.csv` - source dataset
 - `SQL_Queries.md` - SQL queries with proof-of-execution screenshots
-- `/screenshots` - dashboard pages (unfiltered/default view)
+- HR_Attrition_Dashboard.pdf screenshot of dashboard
